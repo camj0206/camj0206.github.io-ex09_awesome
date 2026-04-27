@@ -11,3 +11,5 @@ layout: default
 ## This is a small header
 
 This is basic paragraph text.
+
+<img src="/pic1.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
